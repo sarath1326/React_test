@@ -1,0 +1,219 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.qa-more-main{
+
+    width: 1000px;
+    height: 350px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    
+
+}
+
+.qa-more-inner-main{
+
+     width: 900px;
+     height: 300px;
+     background-color: rgb(197, 224, 215);
+     border-radius: 10px;
+     margin-left: 30px;
+     margin-right: 30px;
+     padding-top: 20px;
+     /* padding-left: 30px; */
+     
+
+}
+
+.qa-more-inner-main span{
+
+     color: rgb(8, 8, 113);
+}
+
+.a-more-inner-top{
+
+      width: 100%;
+      height: 50px;
+      /* background-color: aqua; */
+      display: flex;
+      justify-content: space-between;
+      
+}
+
+
+.a-more-inner-top-icon-box{
+
+      width: 15px;
+      height: 15px;
+      background-color: blue;
+      margin-right: 30px;
+      border-radius: 100pc;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+}
+
+.qa-more-conn{
+
+     width: 300px;
+     height: 40px;
+     background-color: aliceblue;
+     border-radius: 10px;
+     display: flex;
+     align-items: center;
+     padding-left: 20px;
+}
+
+.qa-more-conn:hover{
+
+      .arrow-icon{
+
+         display: block;
+      }
+}
+
+
+.more-conn-icon-box{
+
+      width: 23px;
+      height: 23px;
+      background-color: antiquewhite;
+      border-radius: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.qa-more-conn span{
+
+     font-size: 12px;
+     margin-left: 3px;
+}
+
+.arrow-icon{
+
+      margin-left: 20px;
+      display: none;
+}
+
+
+.coon-more-main{
+
+      
+     width: 700px;
+     height: 150px;
+     background-color: aliceblue;
+     border-radius: 10px;
+     margin-left: 30px;
+     
+}
+
+.coon-more-main-top{
+
+     width: 100%;
+     height: 30px;
+     /* background-color: aqua; */
+     display: flex;
+     justify-content: space-between;
+     padding-top: 10px;
+     
+}
+
+.coon-more-main-top-icon{
+
+     margin-right: 20px;
+     display: none;
+}
+.coon-more-main:hover{
+
+    .coon-more-main-top-icon{
+
+        display: block;
+    }
+}
+
+
+
+.coon-more-main-inner-main{
+
+     width: 100%;
+     height: 100px;
+     /* background-color: aqua; */
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+     gap: 10px;
+
+}
+
+.coon-more-main-inner-boxs{
+
+      width: 50%;
+      min-height: 70px;
+      background-color: rgb(215, 229, 244);
+      border-radius: 20px;
+
+}
+
+.coon-inner-box-top {
+
+     width: 100%;
+     height: 30px;
+     /* background-color: aqua; */
+}
+
+.d-arrow{
+
+     margin-left: 30px;
+}
+
+.coon-more-main-top span{
+
+
+    font-size: 15px;
+
+}
+
+
+.more-main{
+
+     width: 100%;
+     height: 30px;
+     display: flex;
+     
+}
+
+.acc{
+    width: 60px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-left: 20px;
+}
+
+.dis{
+
+    width: 60px;
+    height: 20px;
+    background-color: rgb(179, 179, 183);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-left: 20px;
+
+
+}
+
